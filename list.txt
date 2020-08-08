@@ -1,0 +1,8 @@
+LIST OF ERROR
+
+Error of /etc/apt/sources.list:
+	open /etc/apt/sources.list by sudo nano /etc/apt/sources.list
+	open the sources.list and paste all the link in /etc/apt/sources.list
+
+Error of dpkg:
+	https://superuser.com/questions/1216965/sudo-apt-get-error-flabspath-on-var-lib-dpkg-status-failed-no-such-file-or-d
