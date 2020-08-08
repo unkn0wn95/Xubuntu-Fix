@@ -6,3 +6,7 @@ Error of /etc/apt/sources.list:
 
 Error of dpkg:
 	https://superuser.com/questions/1216965/sudo-apt-get-error-flabspath-on-var-lib-dpkg-status-failed-no-such-file-or-d
+
+Error of corrupted file system(initramfs):
+	Run fsck -fy nameofdrive(ex:/dev/sda1)
+
